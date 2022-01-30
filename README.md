@@ -1,2 +1,2 @@
 # Hotel_Management
-6th Semester Web development Project
+6th Semester Responsive Website Web development Project
